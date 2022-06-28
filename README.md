@@ -1,4 +1,4 @@
-meu nome é **januariokkkj** :cowboy_hat_face:
+meu nome é **João Gustavo Januario** :cowboy_hat_face:
 estou aprendendo a programar em
 > Javascript
 
